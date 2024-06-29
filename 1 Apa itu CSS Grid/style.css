@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: purple;
+}
+
+aside {
+    text-align: center;
+    width: 40%;
+    padding: 50px 0;
+    background-color: blue;
+}
+
+nav {
+    text-align: center;
+    width: 40%;
+    padding: 90px 0;
+    background-color: red;
+}
+
+main {
+    text-align: center;
+    width: 60%;
+    padding: 159px 0;
+    background-color: brown;
+    float: right;
+    margin-top: -354px;
+}
+
+footer {
+    text-align: center;
+    padding: 39px;
+    background-color: gray;
+}
