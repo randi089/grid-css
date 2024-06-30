@@ -10,10 +10,7 @@
     grid-template-rows: repeat(3, 130px);
     grid-template-columns: repeat(3, 1fr);
     gap: 5px;
-    /* align-items: start; */
-    /* align-items: end; */
-    /* align-items: center; */
-    /* align-items: stretch; */
+    /* place-items: center end; */
 }
 
 .items {
