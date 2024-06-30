@@ -20,13 +20,6 @@
 .my-item {
     background-color: lightblue;
 
-    /* justify-self: start; */
-    /* justify-self: end; */
-    /* justify-self: center; */
-    /* justify-self: stretch; */
-
-    /* align-self: start; */
-    /* align-self: end; */
-    /* align-self: center; */
-    /* align-self: stretch; */
+    /* place-self: center end; */
+    place-self: center;
 }
