@@ -8,8 +8,9 @@ body {
 .container {
     width: 60%;
     margin: 50px auto;
+    border: 5px solid orange;
     display: grid;
-    grid-template-columns: 1fr max-content 1fr;
+    grid-template-columns: repeat(auto-fill, 100px);
 }
 
 .item {
